@@ -1,0 +1,11 @@
+C:\Users\Ger Lor\Documents\C#\CSHMWK3\CSHMWK3\obj\Debug\netcoreapp2.2\CSHMWK3.csprojAssemblyReference.cache
+C:\Users\Ger Lor\Documents\C#\CSHMWK3\CSHMWK3\obj\Debug\netcoreapp2.2\CSHMWK3.csproj.CoreCompileInputs.cache
+C:\Users\Ger Lor\Documents\C#\CSHMWK3\CSHMWK3\obj\Debug\netcoreapp2.2\CSHMWK3.AssemblyInfoInputs.cache
+C:\Users\Ger Lor\Documents\C#\CSHMWK3\CSHMWK3\obj\Debug\netcoreapp2.2\CSHMWK3.AssemblyInfo.cs
+C:\Users\Ger Lor\Documents\C#\CSHMWK3\CSHMWK3\bin\Debug\netcoreapp2.2\CSHMWK3.deps.json
+C:\Users\Ger Lor\Documents\C#\CSHMWK3\CSHMWK3\bin\Debug\netcoreapp2.2\CSHMWK3.runtimeconfig.json
+C:\Users\Ger Lor\Documents\C#\CSHMWK3\CSHMWK3\bin\Debug\netcoreapp2.2\CSHMWK3.runtimeconfig.dev.json
+C:\Users\Ger Lor\Documents\C#\CSHMWK3\CSHMWK3\bin\Debug\netcoreapp2.2\CSHMWK3.dll
+C:\Users\Ger Lor\Documents\C#\CSHMWK3\CSHMWK3\bin\Debug\netcoreapp2.2\CSHMWK3.pdb
+C:\Users\Ger Lor\Documents\C#\CSHMWK3\CSHMWK3\obj\Debug\netcoreapp2.2\CSHMWK3.dll
+C:\Users\Ger Lor\Documents\C#\CSHMWK3\CSHMWK3\obj\Debug\netcoreapp2.2\CSHMWK3.pdb
